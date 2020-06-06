@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import java.util.Random;
-
+// all activity classes extend AppComatActivity
 public class MainActivity extends AppCompatActivity {
 
     @Override
